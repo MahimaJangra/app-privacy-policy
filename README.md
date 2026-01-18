@@ -1,10 +1,8 @@
-# Privacy policy
-
-Privacy Policy for Reality Checker
+#Privacy Policy for Reality Checker
 
 Last updated: 18 Jan 2026
 
-'Reality Checker' respects your privacy and is committed to protecting it.
+Reality Checker respects your privacy and is committed to protecting it.
 This Privacy Policy explains how we collect, use, and safeguard your information
 when you use our mobile application.
 
@@ -49,10 +47,37 @@ We do not knowingly collect personal information from children without
 parental consent. Parents or guardians may request access to, correction,
 or deletion of their child’s data by contacting us.
 
-6. Changes to This Privacy Policy
+6. Account and Data Deletion
+
+Users can permanently delete their account and all associated data directly
+from within the Reality Checker mobile application.
+
+How to Delete Your Account:
+1. Open the Reality Checker app
+2. Navigate to the Profile or Settings section
+3. Select "Delete Account"
+4. Confirm the deletion
+
+Once confirmed, the following data is deleted immediately:
+- User account
+- Email address used for login
+- All daily logs and user-generated content
+- Any associated account data stored in Firestore
+
+Data Retention:
+We do not retain personal data after account deletion.
+Deletion is permanent and cannot be undone.
+
+Children’s Data:
+Parents or guardians may delete a child’s account using the same in-app steps.
+
+If you are unable to access the app and need assistance, contact:
+mahimajangra19@gmail.com
+
+7. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time.
 Any changes will be reflected on this page with an updated date.
 
-7. Contact Us
+8. Contact Us
 If you have any questions about this Privacy Policy, contact us at:
 mahimajangra19@gmail.com
